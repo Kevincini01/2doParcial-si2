@@ -1,0 +1,18 @@
+
+# Archivos privados y configuraciones locales
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.db
+*.pem
+*.key
+
+# Archivos subidos por usuarios
+proyecto/SI2-Backend-main/uploads/
+
+# Logs
+*.log
+
+logcat.txt
